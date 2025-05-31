@@ -1,0 +1,25 @@
+# Ignorar el entorno virtual
+venv/
+ENV/
+env/
+.venv/
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos temporales de editores
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Archivos de logs
+*.log
+
+# Archivos de entorno
+.env
+
+# Base de datos local (opcional)
+*.sqlite3
